@@ -2,7 +2,7 @@
 This project is based on the Deloitte media customer survey data and aims to predict which employees are likely to pay for a subscription based on their survey responses.
 
 # Dataset
-The dataset used for this project was obtained from [source name]. It contains 1558 records and 198 features, including demographic information and survey responses such as whether the employee has home internet, their age, gender, and their response to various questions related to their interests in media.
+The dataset used for this project was obtained from kaggle.com to which i have attached the csv file in this repo. It contains 1558 records and 198 features, including demographic information and survey responses such as whether the employee has home internet, their age, gender, and their response to various questions related to their interests in media.
 
 # Dependencies
 To run this notebook, you will need to have the following Python libraries installed:
